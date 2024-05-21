@@ -1,5 +1,5 @@
-## Olá! Eu sou o Gabriel Orçay 👋
-
+![image](https://github.com/GabrielOrcay7/GabrielOrcay7/assets/94321931/a17c08d9-80c4-4965-b056-a15572c8dbcb)## Olá! Eu sou o Gabriel Orçay 👋
+### Engenheiro de Software & Tech Lead
 
 ### GitHub Stats:
 
