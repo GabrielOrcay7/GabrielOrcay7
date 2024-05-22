@@ -44,3 +44,22 @@
 
 ## Tenho foco maior na engenheria e arquitetura de sistemas👾
 ## Também com experiência em redes e servidores 🙂
+
+<br/>
+
+### About Me:
+
+###### Sou profissional da área de TI e voltado a área de negócios. Atualmente trabalho na Zema.
+###### Tenho experiência com desenvolvimento de softwares e API’s com foco maior em back-end, administração de Banco de Dados, Gestão de Projetos entre outros.
+###### Trabalho atualmente atendendo demandas das áreas de Departamento Pessoal, Segurança do Trabalho, Recursos Humanos e Jurídico com foco no negocio.
+###### Tenho uma boa gestão de tempo e demanda, capacidade de aprendizagem rápida, comunicação clara e objetiva, espírito de equipe e liderança.
+###### Meus maiores interesses são com Projetos e Negócios, desde o levantamento, a arquitetura e engenharia, o desenvolvimento, gerenciamento e implantação . 
+###### Estou sempre em busca do aprendizado continuo e de desafios que me impulsionam ao autodesenvolvimento.
+###### Meu objetivo é contribuir com o desenvolvimento de soluções eficientes a empresas e de somar na vida das pessoas através da tecnologia.
+
+
+###### Além das tecnologias citadas, tenho experiência com sistemas de fornecedores como Senior, LG, BWG, TOTVS, Tecfy e LegalOne.
+
+#### Contact Me:
+![Linkedin(linkedin.com/in/gabriel-orçay-758873227)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail(mail.google.com/gabrielorcay7@gmail.com)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
