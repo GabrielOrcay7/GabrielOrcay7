@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Gabriel Orçay 👋
-### Engenheiro de Software & Tech Lead 👨‍💻
+### Engenheiro de Software & Tech Lead na Zema 👨‍💻 ⭐
 
 ### GitHub Stats:
 
