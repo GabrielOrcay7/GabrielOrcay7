@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Orçay 👋
 ### Engenheiro de Software & Tech Lead na Zema 👨‍💻 ⭐
 
-### GitHub Stats:
+### 📈GitHub Stats:
 
 
 ![GabrielOrcay7 GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielOrcay7&show_icons=true&theme=tokyonight)
@@ -47,14 +47,14 @@
 
 <br/>
 
-### About Me:
+### Sobre Mim:
 
-###### Sou profissional da área de TI e voltado a área de negócios. Atualmente trabalho na Zema.
-###### Tenho experiência com desenvolvimento de softwares e API’s com foco maior em back-end, administração de Banco de Dados, Gestão de Projetos entre outros.
-###### Trabalho atualmente atendendo demandas das áreas de Departamento Pessoal, Segurança do Trabalho, Recursos Humanos e Jurídico com foco no negocio.
-###### Tenho uma boa gestão de tempo e demanda, capacidade de aprendizagem rápida, comunicação clara e objetiva, espírito de equipe e liderança.
-###### Meus maiores interesses são com Projetos e Negócios, desde o levantamento, a arquitetura e engenharia, o desenvolvimento, gerenciamento e implantação . 
-###### Estou sempre em busca do aprendizado continuo e de desafios que me impulsionam ao autodesenvolvimento.
+###### Sou profissional da área de TI e voltado a área de negócios. Atualmente trabalho na Zema
+###### Tenho experiência com desenvolvimento de softwares e API’s com foco maior em back-end, administração de Banco de Dados, Gestão de Projetos entre outros
+###### Trabalho atualmente atendendo demandas das áreas de Departamento Pessoal, Segurança do Trabalho, Recursos Humanos e Jurídico com foco no negocio
+###### Tenho uma boa gestão de tempo e demanda, capacidade de aprendizagem rápida, comunicação clara e objetiva, espírito de equipe e liderança
+###### Meus maiores interesses são com Projetos e Negócios, desde o levantamento, a arquitetura e engenharia, o desenvolvimento, gerenciamento e implantação
+###### Estou sempre em busca do aprendizado continuo e de desafios que me impulsionam ao autodesenvolvimento
 ###### Meu objetivo é contribuir com o desenvolvimento de soluções eficientes a empresas e de somar na vida das pessoas através da tecnologia.
 
 
