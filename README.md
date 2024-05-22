@@ -1,6 +1,9 @@
 ### Olá! Eu sou o Gabriel Orçay 👋
 ### Engenheiro de Software & Tech Lead na Zema 👨‍💻 ⭐
 
+<br/>
+
+
 <p align="center">
 <br/> 🧐Contador de Visitas do Perfil🧐 </br>
 </p>
@@ -11,6 +14,9 @@
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
+
+<br/>
+
 
 ### 📈GitHub Stats:
 
