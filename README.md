@@ -68,7 +68,7 @@
 
 ###### Sou profissional da área de TI e voltado a área de negócios. Atualmente trabalho na Zema
 ###### Tenho experiência com desenvolvimento de softwares e API’s com foco maior em back-end, administração de Banco de Dados, Gestão de Projetos entre outros
-###### Trabalho atualmente atendendo demandas das áreas de Departamento Pessoal, Segurança do Trabalho, Recursos Humanos e Jurídico com foco no negocio
+###### Trabalho atualmente atendendo demandas das áreas de Departamento Pessoal, Segurança do Trabalho, Recursos Humanos, Financeiro e Jurídico com foco no negocio
 ###### Tenho uma boa gestão de tempo e demanda, capacidade de aprendizagem rápida, comunicação clara e objetiva, espírito de equipe e liderança
 ###### Meus maiores interesses são com Projetos e Negócios, desde o levantamento, a arquitetura e engenharia, o desenvolvimento, gerenciamento e implantação
 ###### Estou sempre em busca do aprendizado continuo e de desafios que me impulsionam ao autodesenvolvimento
