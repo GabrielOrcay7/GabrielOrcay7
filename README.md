@@ -76,7 +76,3 @@
 
 
 ###### Além das tecnologias citadas, tenho experiência com sistemas de fornecedores como Senior, LG, BWG, TOTVS, Tecfy e LegalOne.
-
-#### Contact Me:
-![Linkedin(linkedin.com/in/gabriel-orçay-758873227)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail(mail.google.com/gabrielorcay7@gmail.com)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
