@@ -59,7 +59,6 @@
 
 
 ## Tenho foco maior na engenheria e arquitetura de sistemas👾
-## Também com experiência em redes e servidores 🙂
 
 <br/>
 
