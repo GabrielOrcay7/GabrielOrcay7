@@ -71,6 +71,3 @@
 ###### Meus maiores interesses são com Projetos e Negócios, desde o levantamento, a arquitetura e engenharia, o desenvolvimento, gerenciamento e implantação
 ###### Estou sempre em busca do aprendizado continuo e de desafios que me impulsionam ao autodesenvolvimento
 ###### Meu objetivo é contribuir com o desenvolvimento de soluções eficientes a empresas e de somar na vida das pessoas através da tecnologia.
-
-
-###### Além das tecnologias citadas, tenho experiência com sistemas de fornecedores como Senior, LG, BWG, TOTVS, Tecfy e LegalOne.
